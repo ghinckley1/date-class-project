@@ -1,5 +1,5 @@
-#ifndef DATE_DATE_H
-#define DATE_DATE_H
+#ifndef DATE_DATE_HPP
+#define DATE_DATE_HPP
 
 #include <iostream>
 #include <string>
@@ -53,4 +53,4 @@ namespace util {
     };
 }
 
-#endif //DATE_DATE_H
+#endif //DATE_DATE_HPP
